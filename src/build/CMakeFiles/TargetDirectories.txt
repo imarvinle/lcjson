@@ -1,0 +1,3 @@
+/Users/lichunlin/CLionProjects/lcjson/src/build/CMakeFiles/rebuild_cache.dir
+/Users/lichunlin/CLionProjects/lcjson/src/build/CMakeFiles/edit_cache.dir
+/Users/lichunlin/CLionProjects/lcjson/src/build/CMakeFiles/lcjson.dir
